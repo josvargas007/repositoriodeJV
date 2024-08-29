@@ -1,0 +1,54 @@
+[33mcommit 17cbfcc3a4a0941895b06ec997ce57b5fc2544d4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mario Torrez <mtorrezc@hotmail.com>
+Date:   Thu Jul 13 17:34:27 2023 -0400
+
+    Pagina de identidad completada
+
+[33mcommit 6f3397d8f30d3b63a9f2fb73a7f48b121e8a8be1[m
+Author: Emergentesdev <94492200+Emergentesdev@users.noreply.github.com>
+Date:   Thu Jul 13 00:44:07 2023 +0200
+
+    Create README.md
+
+[33mcommit e1bc9cd010e5d2a6f5530f4ef6aeac51a906b91a[m
+Author: Mario Torrez <emergentesdev@gmail.com>
+Date:   Thu Jul 13 00:33:45 2023 +0200
+
+    Blog actualizado al 12 de julio
+
+[33mcommit b3de5a8797cb260794975b0ad8428dc61c0ee806[m
+Merge: 2a70180 47a1795
+Author: Mario Torrez <emergentesdev@gmail.com>
+Date:   Thu Jul 13 00:02:57 2023 +0200
+
+    Merge branch 'desarrollo'
+
+[33mcommit 2a70180eb1a671f7740a1ec662442812d2970875[m
+Author: Mario Torrez <emergentesdev@gmail.com>
+Date:   Wed Jul 12 23:53:21 2023 +0200
+
+    Pagina de servicios actualizada
+
+[33mcommit 47a1795a4a834558caf8796a256d4d2b41ffa3f2[m
+Author: Mario Torrez <emergentesdev@gmail.com>
+Date:   Wed Jul 12 23:44:29 2023 +0200
+
+    Actualizacion de index y contactos
+
+[33mcommit 1035b817426584b9c3efc5dbfaf1cdfb56eb26ca[m
+Author: Mario Torrez <mtorrezc@gmail.com>
+Date:   Tue Jul 11 00:36:36 2023 +0200
+
+    Version 3 Paginas con opción Volver
+
+[33mcommit 03b801cd3fca93bc8037424e43faa55f2364187a[m
+Author: Mario Torrez <mtorrezc@gmail.com>
+Date:   Tue Jul 11 00:30:30 2023 +0200
+
+    Version 2 Se incluye la pagina de Blog
+
+[33mcommit 4ab5cc1701fcc4afc4c4cf6b2c288f5e1ce0f8db[m
+Author: Mario Torrez <mtorrezc@gmail.com>
+Date:   Tue Jul 11 00:22:06 2023 +0200
+
+    Version 1 archivos iniciales
